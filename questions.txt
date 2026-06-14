@@ -1,0 +1,10 @@
+What does UDP stand for?:User Datagram Protocol:Universal Data Protocol:Unified Delivery Protocol:Ultra Dynamic Protocol:a
+Which transport protocol guarantees reliable delivery?:UDP:ICMP:TCP:ARP:c
+What is the purpose of the TCP 3-way handshake?:Encrypt data:Establish a connection:Route packets:Detect errors:b
+Which port does HTTP use by default?:443:21:25:80:d
+What happens to a lost UDP packet?:Retransmitted automatically:Sender is notified:Silently dropped:Connection closes:c
+What does socket bind() do?:Connect to a server:Assign local address and port:Send data:Accept a connection:b
+Which socket type is used for UDP?:SOCK_STREAM:SOCK_RAW:SOCK_DGRAM:SOCK_SEQPACKET:c
+What is the max UDP payload size in bytes?:512:1024:65507:4096:c
+What does TCP TIME_WAIT represent?:Connection being established:Waiting for data:Ensuring all packets are gone before closing:An idle connection:c
+Which Wireshark filter shows TCP on port 8888?:udp.port==8888:tcp.port==8888:port==8888:ip.port==8888:b
